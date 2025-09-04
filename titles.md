@@ -1,7 +1,7 @@
-# titles
+# Titles
  
-- a river runs through
-- fight club
-- 12 years a slave
-- the big short
-- 12 monkeys
+- A River Runs Through It
+- Fight Club
+- 12 Years a Slave
+- The Big Short
+- 12 Monkeys
